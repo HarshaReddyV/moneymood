@@ -1,1 +1,7 @@
 pytest
+os 
+csv
+random
+randint
+datetime
+tabulate
